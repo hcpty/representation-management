@@ -5,7 +5,7 @@ Architecture style of the World Wide Web.
 
 直到2000年左右，万维网的架构还是Representation Transfer and Viewing，那个时候的万维网还不怎么支持资源的在线编辑，仅支持资源的在线浏览，相应的存储架构也比较简单。
 
-到了21世纪，随着移动互联网的兴起，在线编辑开始流行，于是万维网的架构开始逐渐演变成了Representation Transfer and Processing，其中Processing的含义是Viewing and Editing，用专业术语说就是Read and Write，一种比较流行的说法是Create/Reade/Update/Delete (CRUD)，相应的资源的存储架构也发生了一些变化，于是得到了今天的万维网架构：Representation Storage, Processing and Transfer。
+到了21世纪，随着移动互联网的兴起，在线编辑开始流行，于是万维网的架构开始逐渐演变成了Representation Processing and Transfer，其中Processing的含义是Viewing and Editing，用专业术语说就是Read and Write，一种比较流行的说法是Create/Reade/Update/Delete (CRUD)，相应的资源的存储架构也发生了一些变化，于是得到了今天的万维网架构：Representation Storage, Processing and Transfer。
 
 如今，开发一个万维网应用一般需要三个步骤：
 - 第1步，考虑资源的存储。
