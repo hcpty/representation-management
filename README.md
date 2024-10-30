@@ -1,5 +1,5 @@
 # Readme
-Architecture style of World Wide Web.
+Architecture style of the World Wide Web.
 
 ### Representation Storage, Management and Transfer
 
