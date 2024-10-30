@@ -14,4 +14,3 @@ Architecture style of the World Wide Web.
 
 ### Credits
 - [Representational State Transfer (REST) - Fielding Dissertation](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-- [Reactor pattern - Wikipedia](https://en.wikipedia.org/wiki/Reactor_pattern)
