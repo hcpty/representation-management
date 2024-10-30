@@ -9,7 +9,7 @@ Architecture style of the World Wide Web.
 
 如今，开发一个万维网应用一般需要三个步骤：
 - 第1步，考虑资源的存储。
-- 第2步，考虑资源的处理，为应用要管理的各类资源编写对应的Representation Processor，封装成一个library，并基于这个library建立和运行独立的service，为使用多种网络协议的应用程序提供和网络传输协议无关的Representation Processing服务。
+- 第2步，考虑资源的处理，为应用要加工的各类资源编写对应的Representation Processor，封装成一个library，并基于这个library建立和运行独立的service，为使用多种网络协议的应用程序提供和网络传输协议无关的Representation Processing服务。
 - 第3步，考虑资源的传输，根据对网络传输协议的需求，编写支持各种网络传输协议的Representation Transferor，令其使用Representation Processing服务并进行接口转换。
 
 ### Credits
