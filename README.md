@@ -9,8 +9,8 @@ Architecture style of World Wide Web app.
 
 如今，设计和实现一个万维网app一般需要三个步骤：
 - 第1步，考虑资源的存储。
-- 第2步，考虑资源的加工，为app要加工的各类资源编写对应的Representation Processor，为app提供Representation Processing服务。
-- 第3步，考虑资源的传递，根据对特定的网络传输协议类型的需求，编写支持对应的网络传输协议的Representation Transferor，令其使用Representation Processing服务并进行接口转换。
+- 第2步，考虑资源的加工，为app要加工的各类Resource编写对应的Representation Processor，为app提供Representation Processing服务。
+- 第3步，考虑资源的传递，根据对特定的网络传输协议类型的需求，编写支持对应的网络传输协议的Representation Transferor，令其中的Request Handler使用Representation Processing服务并进行接口转换。
 
 ### Credits
 - [Representational State Transfer (REST) Architectural Style - Fielding Dissertation](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
