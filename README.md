@@ -13,4 +13,6 @@ Architecture style of World Wide Web app.
 - 第3步，考虑资源的传递，根据对特定的网络传输协议类型的需求，编写支持对应的网络传输协议的Representation Transferor，令其中的Event Handler使用Representation Processing服务并进行接口转换。
 
 ### Credits
+- [Redundant Array of Independent Database Nodes](https://github.com/hcpty/redundant-array-of-independent-database-nodes)
+- [Message Queue Task](https://github.com/hcpty/message-queue-task)
 - [Representational State Transfer (REST) Architectural Style - Fielding Dissertation](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
