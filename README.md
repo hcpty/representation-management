@@ -12,9 +12,9 @@ Architecture style of World Wide Web app.
 - 第2步，考虑资源的加工，为app要加工的各类Representation编写对应的Representation Processor，为app提供Representation Processing服务。
 - 第3步，考虑资源的传递，根据对特定的网络传输协议类型的需求，编写支持对应的网络传输协议的Representation Transferor，令其中的Event Handler使用Representation Processing服务并进行接口转换。
 
-万维网server app和万维网client app可以使用相同的架构风格，只是在实现上略有不同：
+万维网server app和万维网client app使用相同的架构风格，只是在实现上略有不同：
 - 万维网server app需要考虑大规模数据的存储，而万维网client app则不然。
-- 万维网server app需要加工的资源主要是原始数据，而万维网client app需要加工的资源主要是原始数据和图形界面。
+- 万维网server app需要加工的资源主要是原始数据，而万维网client app需要加工的资源还包括图形界面元素。
 - 万维网server app需要考虑支持多种网络传输协议，而万维网client app则不然。
 
 ### Credits
