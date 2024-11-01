@@ -20,4 +20,4 @@ Architecture style of World Wide Web app.
 ### Credits
 - [Dataspace Management Unit - Hcpty](https://github.com/hcpty/dataspace-management-unit)
 - [Message Queue Task - Hcpty](https://github.com/hcpty/message-queue-task)
-- [Representational State Transfer (REST) Architectural Style - Roy Thomas Fielding](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [Representational State Transfer Architectural Style - Roy Thomas Fielding](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
