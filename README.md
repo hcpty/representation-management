@@ -18,6 +18,6 @@ Architecture style of World Wide Web app.
 - 万维网server app通常需要考虑支持多种网络传输协议，而万维网client app一般不需要。
 
 ### Credits
-- [Redundant Array of Independent Nodes - Hcpty](https://github.com/hcpty/redundant-array-of-independent-nodes)
+- [Dataspace Management Unit - Hcpty](https://github.com/hcpty/dataspace-management-unit)
 - [Message Queue Task - Hcpty](https://github.com/hcpty/message-queue-task)
 - [Representational State Transfer (REST) Architectural Style - Roy Thomas Fielding](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
