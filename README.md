@@ -14,7 +14,7 @@ Architecture style of World Wide Web app.
 
 万维网server app和万维网client app使用相同的架构风格，只是在实现上略有不同：
 - 万维网server app通常需要考虑大规模数据的存储，而万维网client app一般不需要。
-- 万维网server app通常需要加工的资源主要是数据库记录，而万维网client app一般还需要加工图形界面元素。
+- 万维网server app通常需要加工的资源主要是原始数据，而万维网client app一般还需要加工图形界面元素。
 - 万维网server app通常需要考虑支持多种网络传输协议，而万维网client app一般不需要。
 
 ### Credits
